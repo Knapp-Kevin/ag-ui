@@ -27,7 +27,7 @@
     "test:exports": "nx run-many -t test:exports"
   },
   "devDependencies": {
-    "nx": "^22.4.5",
+    "nx": "^22.7.2",
     "prettier": "^3.5.3",
     "typescript": "5.8.2"
   },
