@@ -19,7 +19,7 @@ dependencies = [
     "langchain-openai>=1.0.1",
     "langgraph>=1.1.3,<2",
     # Pin: 0.7.97 requires DATABASE_URI at import time, breaking in-memory dev server
-    "langgraph-api>=0.7.70,<0.7.97",
+    "langgraph-api>=0.7.70,<0.10.1",
     "ag-ui-langgraph",
     "ag-ui-protocol",
     "python-dotenv>=1.0.0",
